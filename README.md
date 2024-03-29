@@ -8,6 +8,9 @@ The list will be updated over the time. You are welcome to send a pull request f
 <!-- sort by year -->
 <!-- add other resources (such as datasets, benchmarks, etc.) -->
 
+## 🚀 Highlights
+- If you are new on Cultural LLM research or looking for a new research direction, we have written a comprehensive survey paper on Cultural LLM: <b>Towards Measuring and Modeling "Culture" in LLMs: A Survey</b> <a href="https://arxiv.org/pdf/2403.15412.pdf">[Paper]</a>. Feel free to read and let us know if you have any suggestions! Thanks to Sagnik Mukherjee, Pradhyumna Lavania, Siddhant Singh, Ashutosh Dwivedi, Alham Fikri Aji, Jacki O'Neill, Ashutosh Modi, and Monojit Choudhury to make this possible 😊
+
 ## ⭐ Citation
 If you find this paper and repo helpful for your research, please cite it below:
 
@@ -22,10 +25,6 @@ If you find this paper and repo helpful for your research, please cite it below:
       primaryClass={cs.CY}
 }
 ```
-
-## 🚀 Highlights
-- If you are new on Cultural LLM research or looking for a new research direction, we have written a comprehensive survey paper on Cultural LLM: <b>Towards Measuring and Modeling "Culture" in LLMs: A Survey</b> <a href="https://arxiv.org/pdf/2403.15412.pdf">[Paper]</a>. Feel free to read and let us know if you have any suggestions! Thanks to Sagnik Mukherjee, Pradhyumna Lavania, Siddhant Singh, Ashutosh Dwivedi, Alham Fikri Aji, Jacki O'Neill, Ashutosh Modi, and Monojit Choudhury to make this possible 😊
-
 
 ## <span id="head-content"> *Content* </span>
 * [1. 🏫 Workshops](#head1)
