@@ -2,7 +2,11 @@
 This is the list of tutorials, workshops, papers, and resources on computational linguistic approaches to cultural research. 
 The list will be updated over the time. You are welcome to send a pull request for updating the list and be one of the contributors! 
 
-📌 I plan to collect theses and books on Cultural LLM research and list them here. If you have one, don't hesitate to contact [**Me**](https://elizazhou96.github.io/) (Farid) or send a pull request! 
+📌 I plan to collect theses and books on Cultural LLM research and list them here. If you have one, don't hesitate to contact [**Me**](https://www.linkedin.com/in/faridlazuarda/) (Farid) or send a pull request! 
+
+<!-- TODO -->
+<!-- sort by year -->
+<!-- add other resources (such as datasets, benchmarks, etc.) -->
 
 ## ⭐ Citation
 If you find this paper and repo helpful for your research, please cite it below:
