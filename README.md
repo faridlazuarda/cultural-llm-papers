@@ -170,6 +170,7 @@ Furthermore, “Linguistic culture interaction” and the the proxies defined he
 
 
 #### Region
+- <b>Seth, et al. (2024)</b> <i>DOSA: A Dataset of Social Artifacts from Different Indian Geographical Subcultures</i>. LREC-COLING <a href="https://aclanthology.org/2024.lrec-main.474/">[Paper]</a>
 - <b>Hershcovich, et al. (2022)</b> <i>Challenges and Strategies in Cross-Cultural NLP</i>. ACL <a href="https://aclanthology.org/2022.acl-long.482.pdf">[Paper]</a>
 - <b>Koto, et al. (2023)</b> <i>Large language models only pass primary school exams in Indonesia: A comprehensive test on IndoMMLU</i>. EMNLP <a href="https://aclanthology.org/2023.emnlp-main.760.pdf">[Paper]</a>
 - <b>Wibowo, et al. (2023)</b> <i>COPAL-ID: Indonesian Language Reasoning with Local Culture and Nuances</i>. ArXiv <a href="https://arxiv.org/pdf/2311.01012.pdf">[Paper]</a>
