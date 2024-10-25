@@ -79,6 +79,8 @@ Furthermore, “Linguistic culture interaction” and the the proxies defined he
 - <b>Fung, et al (2023)</b> <i>NORMSAGE: Multi-Lingual Multi-Cultural Norm Discovery from Conversations On-the-Fly</i>. EMNLP Main <a href="https://aclanthology.org/2023.emnlp-main.941.pdf">[Paper]</a>
 - <b>Mukherjee, et al (2023)</b> <i>Global Voices, Local Biases: Socio-Cultural Prejudices across Languages</i>. EMNLP Main <a href="https://aclanthology.org/2023.emnlp-main.981.pdf">[Paper]</a>
 - <b>Santy, et al (2023)</b> <i>NLPositionality: Characterizing Design Biases of Datasets and Models</i>. ACL Main <a href="https://aclanthology.org/2023.acl-long.505v2.pdf">[Paper]</a>
+- <b>AlKhamissi, et al (2024)</b> <i>Investigating Cultural Alignment of Large Language Models</i>. ACL Main <a href="https://aclanthology.org/2024.acl-long.671.pdf">[Paper]</a>
+
 
 #### Food and Drink
 - <b>Palta and Rudinger (2023)</b> <i>FORK: A Bite-Sized Test Set for Probing Culinary Cultural Biases in Commonsense Reasoning Models</i>. ACL Findings <a href="https://aclanthology.org/2023.findings-acl.631.pdf">[Paper]</a>
@@ -92,6 +94,7 @@ Furthermore, “Linguistic culture interaction” and the the proxies defined he
 - <b>Shaikh, et al. (2023)</b> <i>Modeling Cross-Cultural Pragmatic Inference with Codenames Duet</i>. ACL Findings <a href="https://aclanthology.org/2023.findings-acl.410.pdf">[Paper]</a>
 - <b>Bauer, et al. (2023)</b> <i>Social Commonsense for Explanation and Cultural Bias Discovery</i>. EACL Main <a href="https://aclanthology.org/2023.eacl-main.271.pdf">[Paper]</a>
 - <b>Feng, et al. (2023)</b> <i>From Pretraining Data to Language Models to Downstream Tasks: Tracking the Trails of Political Biases Leading to Unfair NLP Models</i>. ACL <a href="https://aclanthology.org/2023.acl-long.656.pdf">[Paper]</a>
+- <b>AlKhamissi, et al (2024)</b> <i>Investigating Cultural Alignment of Large Language Models</i>. ACL Main <a href="https://aclanthology.org/2024.acl-long.671.pdf">[Paper]</a>
 
 
 #### Basic Actions and Technology
@@ -112,6 +115,7 @@ Furthermore, “Linguistic culture interaction” and the the proxies defined he
 - <b>Shaikh, et al. (2023)</b> <i>Modeling Cross-Cultural Pragmatic Inference with Codenames Duet</i>. ACL Findings <a href="https://aclanthology.org/2023.findings-acl.410.pdf">[Paper]</a>
 - <b>Bauer, et al. (2023)</b> <i>Social Commonsense for Explanation and Cultural Bias Discovery</i>. EACL Main <a href="https://aclanthology.org/2023.eacl-main.271.pdf">[Paper]</a>
 - <b>Feng, et al. (2023)</b> <i>From Pretraining Data to Language Models to Downstream Tasks: Tracking the Trails of Political Biases Leading to Unfair NLP Models</i>. ACL <a href="https://aclanthology.org/2023.acl-long.656.pdf">[Paper]</a>
+- <b>AlKhamissi, et al (2024)</b> <i>Investigating Cultural Alignment of Large Language Models</i>. ACL Main <a href="https://aclanthology.org/2024.acl-long.671.pdf">[Paper]</a>
 
 
 #### Education
@@ -133,6 +137,7 @@ Furthermore, “Linguistic culture interaction” and the the proxies defined he
 #### Race
 - <b>Johnson, et al. (2022)</b> <i>The Ghost in the Machine has an American accent: value conflict in GPT-3</i>. ArXiv <a href="https://arxiv.org/pdf/2203.07785.pdf">[Paper]</a>
 - <b>Durmus, et al. (2023)</b> <i>Towards Measuring the Representation of Subjective Global Opinions in Language Models</i>. ArXiv <a href="https://arxiv.org/pdf/2306.16388.pdf">[Paper]</a>
+- <b>AlKhamissi, et al (2024)</b> <i>Investigating Cultural Alignment of Large Language Models</i>. ACL Main <a href="https://aclanthology.org/2024.acl-long.671.pdf">[Paper]</a>
 
 
 #### Gender
@@ -141,6 +146,7 @@ Furthermore, “Linguistic culture interaction” and the the proxies defined he
 - <b>Wan, et al. (2023)</b> <i>Are personalized stochastic parrots more dangerous? evaluating persona biases in dialogue systems</i>. EMNLP <a href="https://aclanthology.org/2023.findings-emnlp.648.pdf">[Paper]</a>
 - <b>An, et al. (2023)</b> <i>SODAPOP: Open-Ended Discovery of Social Biases in Social Commonsense Reasoning Models</i>. EMNLP <a href="https://aclanthology.org/2023.eacl-main.116.pdf">[Paper]</a>
 - <b>Wu, et al (2023)</b> <i>Cross-Cultural Analysis of Human Values, Morals, and Biases in Folk Tales</i>. EMNLP Main <a href="https://aclanthology.org/2023.emnlp-main.311.pdf">[Paper]</a>
+- <b>AlKhamissi, et al (2024)</b> <i>Investigating Cultural Alignment of Large Language Models</i>. ACL Main <a href="https://aclanthology.org/2024.acl-long.671.pdf">[Paper]</a>
 
 
 
@@ -166,6 +172,7 @@ Furthermore, “Linguistic culture interaction” and the the proxies defined he
 - <b>Khanuja, et al (2023)</b> <i>Evaluating the Diversity, Equity, and Inclusion of NLP Technology: A Case Study for Indian Languages</i>. ArXiv <a href="https://aclanthology.org/2023.findings-eacl.131.pdf">[Paper]</a>
 - <b>Santy, et al (2023)</b> <i>NLPositionality: Characterizing Design Biases of Datasets and Models</i>. ACL Main <a href="https://aclanthology.org/2023.acl-long.505v2.pdf">[Paper]</a>
 - <b>Das, et al. (2023)</b> <i>Toward Cultural Bias Evaluation Datasets: The Case of Bengali Gender, Religious, and National Identity </i>. Proceedings of the First Workshop on Cross-Cultural Considerations in NLP (C3NLP) <a href="https://aclanthology.org/2023.eacl-main.271.pdf">[Paper]</a>
+- <b>AlKhamissi, et al (2024)</b> <i>Investigating Cultural Alignment of Large Language Models</i>. ACL Main <a href="https://aclanthology.org/2024.acl-long.671.pdf">[Paper]</a>
 
 
 
@@ -191,6 +198,7 @@ Furthermore, “Linguistic culture interaction” and the the proxies defined he
 - <b>Santy, et al (2023)</b> <i>NLPositionality: Characterizing Design Biases of Datasets and Models</i>. ACL Main <a href="https://aclanthology.org/2023.acl-long.505v2.pdf">[Paper]</a>
 - <b>Cao, et al. (2023)</b> <i>Assessing cross-cultural alignment between ChatGPT and human societies: An empirical study</i>. ACL <a href="https://aclanthology.org/2023.c3nlp-1.7.pdf">[Paper]</a>
 - <b>Dwivedi, et al. (2023)</b> <i>EtiCor: Corpus for Analyzing LLMs for Etiquettes</i>. EMNLP Main <a href="https://aclanthology.org/2023.emnlp-main.428.pdf">[Paper]</a>
+- <b>AlKhamissi, et al (2024)</b> <i>Investigating Cultural Alignment of Large Language Models</i>. ACL Main <a href="https://aclanthology.org/2024.acl-long.671.pdf">[Paper]</a>
 
 
 
@@ -235,6 +243,7 @@ No studies has been found for this taxon.
 - <b>An, et al. (2023)</b> <i>SODAPOP: Open-Ended Discovery of Social Biases in Social Commonsense Reasoning Models</i>. EMNLP <a href="https://aclanthology.org/2023.eacl-main.116.pdf">[Paper]</a>
 - <b>Sorensen, et al. (2023)</b> <i>Value Kaleidoscope: Engaging AI with Pluralistic Human Values, Rights, and Duties</i>. ArXiv <a href="https://arxiv.org/pdf/2309.00779.pdf">[Paper]</a>
 - <b>Durmus, et al. (2023)</b> <i>Towards Measuring the Representation of Subjective Global Opinions in Language Models</i>. ArXiv <a href="https://arxiv.org/pdf/2306.16388.pdf">[Paper]</a>
+- <b>AlKhamissi, et al (2024)</b> <i>Investigating Cultural Alignment of Large Language Models</i>. ACL Main <a href="https://aclanthology.org/2024.acl-long.671.pdf">[Paper]</a>
 
 
 
